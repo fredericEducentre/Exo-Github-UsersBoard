@@ -29,4 +29,15 @@
         "photo": "https://via.placeholder.com/100",
         "phone": "0147258369"
     }
+    {
+        "id": 4,
+        "name": "Patrick",
+        "email": "¨Patrick@example.com",
+        "age": 25,
+        "gender": "Homme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0632266558"
+    }
+    
 ]
