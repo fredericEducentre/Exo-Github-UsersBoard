@@ -48,6 +48,26 @@
         "description": "il sais rien faire.",
         "photo": "https://via.placeholder.com/100",
         "phone": "0775522884"
+    },
+    {
+        "id": 6,
+        "name": "bilel",
+        "email": "bilel@example.com",
+        "age": 25,
+        "gender": "Homme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0632266558"
+    },
+    {
+        "id": 6,
+        "name": "faical",
+        "email": "faical@example.com",
+        "age": 25,
+        "gender": "Homme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0775522884"
     }
     
 ]
