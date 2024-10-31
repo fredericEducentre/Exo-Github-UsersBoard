@@ -28,5 +28,26 @@
         "description": "Amateur de cuisine et de sport.",
         "photo": "https://via.placeholder.com/100",
         "phone": "0147258369"
+    },
+    {
+        "id": 4,
+        "name": "Patrick",
+        "email": "¨Patrick@example.com",
+        "age": 25,
+        "gender": "Homme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0632266558"
+    },
+    {
+        "id": 5,
+        "name": "Sandy",
+        "email": "Sandy@example.com",
+        "age": 25,
+        "gender": "Femme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0775522884"
     }
+    
 ]
