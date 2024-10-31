@@ -38,6 +38,16 @@
         "description": "il sais rien faire.",
         "photo": "https://via.placeholder.com/100",
         "phone": "0632266558"
+    },
+    {
+        "id": 5,
+        "name": "Sandy",
+        "email": "Sandy@example.com",
+        "age": 25,
+        "gender": "Femme",
+        "description": "il sais rien faire.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0775522884"
     }
     
 ]
